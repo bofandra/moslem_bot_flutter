@@ -1,4 +1,4 @@
-package com.example.moslem_bot
+package com.sevenmuslims.moslem_bot
 
 import io.flutter.embedding.android.FlutterActivity
 
